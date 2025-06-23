@@ -348,6 +348,7 @@ Version      : 1.0
 
 .row {
     --bs-gutter-x: 30px;
+    align-content: center;
 }
 
 @media only screen and (min-width: 1200px) {
